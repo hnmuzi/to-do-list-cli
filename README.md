@@ -25,7 +25,6 @@ sehingga bisa berjalan di semua perangkat.
 
 ## 📸 Screenshot
 
-> *(Ganti file `screenshot.png` sesuai milikmu)*
 
 ![App Screenshot](Screenshot-to-do-list.png)
 
